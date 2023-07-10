@@ -8,7 +8,7 @@ public class Calculator {
 		return a - b;
 	}
 	
-	//test
+	//test 2
 	
 	public int multiply(int a, int b) {
 		return a * b;
